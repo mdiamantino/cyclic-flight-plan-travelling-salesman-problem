@@ -66,7 +66,6 @@ sudo apt-get install python3-tk
    ```sh
    >>> get_best_route([(5, 0), (2, 2), (0, 6), (6, 6), (6, 14), (12, 12), (16, 8), (20, 15), (20, 5), (16, 0)], 0.5, debug=True)
    ```
-* Input your own polygon's coordinates and number of partitions (without visualization):
 
 
 <!-- CONTACT -->

@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-* Please refer to [**extract-article.pdf**](https://github.com/mdiamantino/cyclic-flight-plan-travelling-salesman-problem/blob/main/extract-article.pdf) to learn more on the construction of the algorithm.
-* **Note:** This project solves a sub-problem related to another mission planning project for drones and UAVs. You can find another sub-problem of the mission planning project in this [article](https://medium.com/codex/optimal-region-partitioning-for-uavs-and-drones-in-cooperative-flight-settings-c0764a6450f9).
+* This project solves a sub-problem related to another mission planning project for drones and UAVs. You can find another sub-problem of the mission planning project in this [article](https://medium.com/codex/optimal-region-partitioning-for-uavs-and-drones-in-cooperative-flight-settings-c0764a6450f9).construction of the algorithm.
+* **Note:** Please refer to [**extract-article.pdf**](https://github.com/mdiamantino/cyclic-flight-plan-travelling-salesman-problem/blob/main/extract-article.pdf) to learn more on the 
 
 
 
